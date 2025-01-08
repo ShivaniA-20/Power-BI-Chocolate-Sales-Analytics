@@ -60,12 +60,12 @@ Each shipment represents chocolates sold by a salesperson for a specific product
 3. __Month-on-Month Trends__:
 - Analyzed changes in Total Sales and Profit using Line Graphs to detect seasonal trends and performance patterns.
 
-  https://github.com/ShivaniA-20/Power-BI-Chocolate-Sales-Analytics/blob/78fead952d03673b779341b617dc19d98bb12ea3/Month-on-Month%20Trends.png
+https://github.com/ShivaniA-20/Power-BI-Chocolate-Sales-Analytics/blob/main/Month-on-Month%20Trends.png
 
 4. __Salesperson Performance__:
 - Visualized individual performance using Bar Charts to identify top-performing salespersons.
 
-https://github.com/ShivaniA-20/Power-BI-Chocolate-Sales-Analytics/blob/78fead952d03673b779341b617dc19d98bb12ea3/Salesperson%20Performance.jpg
+https://github.com/ShivaniA-20/Power-BI-Chocolate-Sales-Analytics/blob/main/Salesperson%20Performance.jpg
 
 ## Analysis and Findings
 __Product Performance Analysis__
