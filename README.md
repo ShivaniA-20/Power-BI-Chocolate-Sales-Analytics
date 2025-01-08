@@ -19,6 +19,9 @@ Each shipment represents chocolates sold by a salesperson for a specific product
 
 ## Objectives
 1. Create an *star schema* model for Chocolate Sales using Power BI.
+
+[Data Modelling.png](https://github.com/ShivaniA-20/Power-BI-Chocolate-Sales-Analytics/blob/4c5c357f6af241447403600c79673abb9b015501/Data%20Modelling.png)
+
 2. Calculate and analyze key metrics, including:
    - Total Sales
    - Total Boxes
