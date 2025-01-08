@@ -49,18 +49,23 @@ Each shipment represents chocolates sold by a salesperson for a specific product
 ## Visualizations
 1. __Profit Analysis by Product__:
 - Displayed profit across products using a Stacked Bar Chart. Peanut Butter Cubes were the most profitable product, while Bakers Choco Chips underperformed.
+
+[  Profit Analysis by Product.png](https://github.com/ShivaniA-20/Power-BI-Chocolate-Sales-Analytics/blob/78fead952d03673b779341b617dc19d98bb12ea3/Profit%20Analysis%20by%20Product.png)
  
 2. __Low Box Shipments__:
 - Created a KPI to track shipments with fewer than 50 boxes, revealing inefficiencies in operations. Milk Bars had the highest Low Box Shipments (LBS).
+
+[  Profit Analysis by Product.png](https://github.com/ShivaniA-20/Power-BI-Chocolate-Sales-Analytics/blob/78fead952d03673b779341b617dc19d98bb12ea3/Low%20Box%20Shipments.png)
  
 3. __Month-on-Month Trends__:
 - Analyzed changes in Total Sales and Profit using Line Graphs to detect seasonal trends and performance patterns.
 
-4. __Geography-wise Profitability__:
-- Developed TreeMaps to compare profitability across regions.
+  https://github.com/ShivaniA-20/Power-BI-Chocolate-Sales-Analytics/blob/78fead952d03673b779341b617dc19d98bb12ea3/Month-on-Month%20Trends.png
 
-5. __Salesperson Performance__:
+4. __Salesperson Performance__:
 - Visualized individual performance using Bar Charts to identify top-performing salespersons.
+
+https://github.com/ShivaniA-20/Power-BI-Chocolate-Sales-Analytics/blob/78fead952d03673b779341b617dc19d98bb12ea3/Salesperson%20Performance.jpg
 
 ## Analysis and Findings
 __Product Performance Analysis__
